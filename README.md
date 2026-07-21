@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, Generative AI, Cybersecurity, and Open-Source technologies. I enjoy building practical projects, exploring emerging AI models, and applying technology to solve real-world problems. I am passionate about continuous learning, contributing to research, and improving my skills through hands-on development and collaboration with the developer community.<br>
+Hi, I'm Kartik Unde, a Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, Generative AI, Cybersecurity, and Open-Source technologies. I enjoy building practical projects, exploring emerging AI models, and applying technology to solve real-world problems. I am passionate about continuous learning, contributing to research, and improving my skills through hands-on development and collaboration with the developer community.<br>
 
 
 ## 🌐 Socials:
